@@ -1,0 +1,2 @@
+  "manager@contoso.com": "BDaT!))!F22",
+  "admin@contoso.com": "BDaT!))!F22"
